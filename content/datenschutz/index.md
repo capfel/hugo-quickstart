@@ -1,6 +1,6 @@
 +++
 date = '2024-11-27T16:38:42Z'
-draft = true
+draft = false
 title = 'Datenschutz'
 +++
 
