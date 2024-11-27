@@ -1,0 +1,7 @@
+{{ $logo := resources.Get "images/Katarrh_Logo_white_1000.png" }}
+<div class="header">
+    <img src="{{ $logo.RelPermalink }}" width="{{ $logo.Width }}" height="{{ $logo.Height }}" class="header-logo">
+</div>
+
+<h1 class="visually-hidden">{{ site.Title }}</h1>
+{{ partial "menu.html" (dict "menuID" "main" "page" .) }}

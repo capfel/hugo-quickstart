@@ -1,0 +1,40 @@
+:root {
+  --bs-body-bg: #171F2A;
+  --bs-link-color: rgb(255, 255, 255);
+  --bs-link-color-rgb: 255, 255, 255;
+  --bs-link-decoration: underline;
+  --bs-link-hover-color: rgb(214, 214, 214);
+  --bs-link-hover-color-rgb: 214, 214, 214;
+}
+
+body {
+  color: white;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(0deg, #171F2A 0%, #34445A 100%);
+}
+
+.header-logo {
+  max-height: 60vh;
+  max-width: 90vw;
+  height: auto;
+  width: auto;
+}
+
+.main-menu {
+  display: flex;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
