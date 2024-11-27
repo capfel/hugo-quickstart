@@ -4,13 +4,15 @@ draft = false
 title = 'Datenschutz'
 +++
 
-# Datenschutzerklärung
 ## 1. Verantwortliche Stelle
 Verantwortlich für die Datenverarbeitung auf dieser Webseite ist:
 
 Chris Apfelbeck
+
 Brachstraße 10
+
 40223 Düsseldorf
+
 info@katarrh.com
 
 ## 2. Allgemeines zur Datenverarbeitung
@@ -21,12 +23,12 @@ Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte
 ## 3. Zugriffsdaten und Hosting
 Beim Besuch unserer Webseite erhebt und speichert unser Hosting-Provider automatisch Informationen, die Ihr Browser übermittelt, in sogenannten Server-Log-Dateien. Dazu gehören:
 
-IP-Adresse
-Datum und Uhrzeit des Zugriffs
-Browsertyp und -version
-Verwendetes Betriebssystem
-Referrer-URL
-Diese Daten dienen ausschließlich der Sicherstellung eines störungsfreien Betriebs der Webseite und der Verbesserung unseres Angebots. Sie werden nicht mit anderen Datenquellen zusammengeführt.
+- IP-Adresse
+- Datum und Uhrzeit des Zugriffs
+- Browsertyp und -version
+- Verwendetes Betriebssystem
+- Referrer-URL
+- Diese Daten dienen ausschließlich der Sicherstellung eines störungsfreien Betriebs der Webseite und der Verbesserung unseres Angebots. Sie werden nicht mit anderen Datenquellen zusammengeführt.
 
 Rechtsgrundlage für diese Datenverarbeitung ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
 
@@ -51,13 +53,13 @@ Die Einbindung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigte
 ## 8. Rechte der betroffenen Personen
 Sie haben das Recht:
 
-Auskunft über Ihre gespeicherten Daten zu verlangen (Art. 15 DSGVO),
-die Berichtigung unrichtiger Daten zu fordern (Art. 16 DSGVO),
-die Löschung Ihrer Daten zu verlangen (Art. 17 DSGVO),
-die Einschränkung der Verarbeitung zu fordern (Art. 18 DSGVO),
-der Verarbeitung zu widersprechen (Art. 21 DSGVO),
-Ihre Daten in einem übertragbaren Format zu erhalten (Art. 20 DSGVO).
-Zudem haben Sie das Recht, sich bei einer Aufsichtsbehörde zu beschweren.
+- Auskunft über Ihre gespeicherten Daten zu verlangen (Art. 15 DSGVO),
+- die Berichtigung unrichtiger Daten zu fordern (Art. 16 DSGVO),
+- die Löschung Ihrer Daten zu verlangen (Art. 17 DSGVO),
+- die Einschränkung der Verarbeitung zu fordern (Art. 18 DSGVO),
+- der Verarbeitung zu widersprechen (Art. 21 DSGVO),
+- Ihre Daten in einem übertragbaren Format zu erhalten (Art. 20 DSGVO).
+- Zudem haben Sie das Recht, sich bei einer Aufsichtsbehörde zu beschweren.
 
 ## 9. Änderungen der Datenschutzerklärung
 Wir behalten uns vor, diese Datenschutzerklärung zu aktualisieren, um sie an rechtliche Änderungen oder neue Funktionen der Webseite anzupassen.

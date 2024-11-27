@@ -5,25 +5,30 @@ title = 'Impressum'
 +++
 
 
-# Impressum
-
 ## Angaben gemäß § 5 TMG
 
 **Katarrh**  
+
 Chris Apfelbeck
-Brachstraße 10
+
+Brachtstraße 10
+
 40223 Düsseldorf
 
 ## Kontakt
 
 Telefon: +49 (0) 178 5606360
+
 E-Mail: info@katarrh.com
+
 Webseite: https://www.katarrh.com
 
 ## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
 
 Chris Apfelbeck
-Brachstraße 10
+
+Brachtstraße 10
+
 40223 Düsseldorf
 
 ## Haftungsausschluss (Disclaimer)
