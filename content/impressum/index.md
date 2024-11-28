@@ -9,10 +9,8 @@ title = 'Impressum'
 
 **Katarrh**  
 
-Chris Apfelbeck
-
-Brachtstraße 10
-
+Chris Apfelbeck\
+Brachtstraße 10\
 40223 Düsseldorf
 
 ## Kontakt

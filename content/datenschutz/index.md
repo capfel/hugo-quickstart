@@ -7,10 +7,8 @@ title = 'Datenschutz'
 ## 1. Verantwortliche Stelle
 Verantwortlich für die Datenverarbeitung auf dieser Webseite ist:
 
-Chris Apfelbeck
-
-Brachstraße 10
-
+Chris Apfelbeck\
+Brachstraße 10\
 40223 Düsseldorf
 
 info@katarrh.com
